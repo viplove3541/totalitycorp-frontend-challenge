@@ -16,4 +16,4 @@
 
 5.**Demo:** A live demo of the project was provided to allow users to experience the website's features without having to install it locally.
 
-## You can check out a live demo of this project [click here](https://s-mart-ashim.netlify.app/)
+## You can check out a live demo of this project [click here](https://totalitycorp-frontend-challenge-one-phi.vercel.app/)
